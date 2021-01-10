@@ -4,6 +4,7 @@ public class HelloEclipse {
 	private int QQ;
   	private String yoyo;
 	private int XYZ;
+	private int WWW;
 	
 	public static void main(String[]args) {
 		System.out.println("Hello Eclipse");
