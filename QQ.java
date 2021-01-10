@@ -3,7 +3,7 @@ package xxx;
 public class HelloEclipse {
 	private int QQ;
   	private String yoyo;
-	private int Z;
+	private int XYZSSS;
 	
 	public static void main(String[]args) {
 		System.out.println("Hello Eclipse");
